@@ -1,6 +1,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1 align="center">😎Hello there! I'm KS Nithin <img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1 align="center">😎Hello there! I'm KS Nithin <img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 <h3 align="center"> An aspiring web developer from India</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
