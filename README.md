@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/a446eb1186e88585667899408550ecb9462ef0dbaa7fb8b7adfd64bbc2ee28a2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696e73616e656a736b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Nithin" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithin0620" alt="Nithin" /></a> </p>
+
+
 <p align="left"> <a href="https://www.linkedin.com/in/k-s-nithin/" target="blank"><img src="https://img.shields.io/badge/Connect%20With%20Me-008000" alt="Nithin" /></a> </p>
 
 - 👋 Hi, I’m KS Nithin 
