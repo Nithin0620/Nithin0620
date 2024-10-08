@@ -1,4 +1,4 @@
-👋 Hi, I’m KS Nithin\n
+👋 Hi, I’m KS Nithin
 👀 Interests: Exploring various domains of tech
 🌱 Currently Learning: Web Development and Data Structures & Algorithms (DSA)
 💞️ Open to Collaborate: Web development projects
