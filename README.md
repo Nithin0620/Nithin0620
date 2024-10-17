@@ -43,9 +43,9 @@
 
 ## LeetCode:
 [LeetCode Profile](https://leetcode.com/u/Nithin0620/)  
-**Problems Solved:** 6  
-- Easy: 4 
-- Medium: 2  
+**Problems Solved:** 32  
+- Easy: 18 
+- Medium: 14  
 - Hard: 0  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact" alt="nithin" /></p>
