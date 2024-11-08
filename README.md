@@ -43,16 +43,18 @@
 
 ## LeetCode:
 [LeetCode Profile](https://leetcode.com/u/Nithin0620/)  
-**Problems Solved:** 32  
-- Easy: 18 
-- Medium: 14  
+**Problems Solved:** 48  
+- Easy: 25 
+- Medium: 23  
 - Hard: 0  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact" alt="nithin" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nithin0620&show_icons=true&theme=transparent" alt="nithin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620&" alt="nithin" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620" alt="Nithin's Streak Stats" />
+</p>
 
 ## 🚀Keep Moving Forward
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
