@@ -43,10 +43,8 @@
 
 ## LeetCode:
 [LeetCode Profile](https://leetcode.com/u/Nithin0620/)  
-**Problems Solved:** 48  
-- Easy: 25 
-- Medium: 23  
-- Hard: 0  
+
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity)](https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact" alt="nithin" /></p>
 
