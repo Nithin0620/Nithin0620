@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithin0620" alt="Nithin" /></a> </p>
 
-<img align="right"  alt="GIF" src="https://github.com/Nikhila-KS/Nikhila-KS/assets/100426366/c469cccd-6cae-4eac-a1a3-ebc9fcaf409c" width="410" height="330" />
+<img align="right"  alt="GIF" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14080.jpg" width="450" height="360" />
 
 <p align="left"> <a href="https://www.linkedin.com/in/k-s-nithin/" target="blank"><img src="https://img.shields.io/badge/Connect%20With%20Me-008000" alt="Nithin" /></a> </p>
 
