@@ -1,4 +1,4 @@
-
+t
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">😎Hello there! I'm KS Nithin <img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 <h3 align="center"> An aspiring web developer from India</h3>
@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  
-<p align="left"> <img src="https://camo.githubusercontent.com/a446eb1186e88585667899408550ecb9462ef0dbaa7fb8b7adfd64bbc2ee28a2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696e73616e656a736b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Nithin" /> </p>
+![](https://komarev.com/ghpvc/?username=Nithin0620)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithin0620" alt="Nithin" /></a> </p>
 
