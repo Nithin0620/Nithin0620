@@ -67,7 +67,8 @@
 
  [![LeetCode Stats](https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact" alt="nithin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nithin0620" /></p>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nithin0620&show_icons=true&theme=transparent" alt="nithin" /></p>
 
