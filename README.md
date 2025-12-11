@@ -62,22 +62,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
 </p>
 
+
 ## LeetCode:
 [LeetCode Profile](https://leetcode.com/u/Nithin0620/)  
 
- [![LeetCode Stats](https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity)
-
- ![Metrics](https://metrics.lecoq.io/Nithin0620?template=classic&base.indepth=true&base.hireable=true&users.ignored=&commits.authoring=&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nithin0620" /></p>
-<p><img align="left" src="https://metrics.lecoq.io/Nithin0620?template=classic&base.indepth=true&base.hireable=true&users.ignored=&commits.authoring=&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true" alt="Nithin0620" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithin0620&show_icons=true&theme=transparent" alt="nithin" /></p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity" alt="LeetCode Stats"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620" alt="Nithin's Streak Stats" />
+  <img src="https://metrics.lecoq.io/Nithin0620?template=classic&base.indepth=true&base.hireable=true&users.ignored=&commits.authoring=&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages.limit=10&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true" alt="Metrics"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620" alt="Nithin's Streak Stats"/>
+</p>
+
+
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin0620&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nithin0620" /></p> -->
+<!-- <p><img align="left" src="https://metrics.lecoq.io/Nithin0620?template=classic&base.indepth=true&base.hireable=true&users.ignored=&commits.authoring=&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true" alt="Nithin0620" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithin0620&show_icons=true&theme=transparent" alt="nithin" /></p> -->
+
+
 
 ## 🚀Keep Moving Forward
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
