@@ -40,7 +40,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bootstrap,express,javascript,nextjs,mongodb,nodejs,postman,react,redux,tailwind,typescript,docker,jenkins,aws,gitlab,hardhat,ipfs,solidity,terraform,ansible,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postman,postgres" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,aws,terraform,ansible" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=remix,ipfs" />
   </a>
 </p>
 
