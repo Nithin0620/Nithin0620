@@ -6,8 +6,9 @@
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  
 ![](https://komarev.com/ghpvc/?username=Nithin0620)
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithin0620" alt="Nithin" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithin0620&margin-w=15" alt="Nithin" /></a> </p>-->
 
 <img align="right"  alt="GIF" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14080.jpg" width="450" height="360" />
 
@@ -59,10 +60,10 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity" alt="LeetCode Stats"/>
 </p>
-
+<!--
 <p align="center">
-  <img src="https://metrics.lecoq.io/Nithin0620?template=classic&base.indepth=true&base.hireable=true&users.ignored=&commits.authoring=&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages.limit=10&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true" alt="Metrics"/>
-</p>
+  <img src="https://metrics.lecoq.io/Nithin0620?template=classic&languages=1&habits=1&repositories=1&achievements=1&pagespeed=1&introduction=1&code=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Major_project_StudyNotion&repositories.pinned=0&repositories.starred=0&repositories.random=2&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&code.languages=solidity%2Cjavascript%2Ctypescript&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=devnithin.xyz&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FCalcutta" alt="Metrics"/>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620" alt="Nithin's Streak Stats"/>
