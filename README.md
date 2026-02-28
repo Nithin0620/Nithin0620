@@ -50,7 +50,13 @@
   </a>
 </p>
 
+## 🚀 Upcoming Project
 
+### TripTally – AI-Powered Travel Planner (Launching Soon)
+
+Plan smarter. Track expenses. Travel together.
+
+🔗 Live Preview: https://trip-tally-seven.vercel.app/
   
 
 
