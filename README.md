@@ -1,8 +1,19 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1 align="center">😎Hello there! I'm KS Nithin <img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
-<h3 align="center"> An aspiring web developer from India</h3>
+<h1 align="center">😎Hello there!<img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
+<!-- <h3 align="center"> An aspiring web developer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:0f9bff&height=500&section=header&text=I'm%20Nithin&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Practitioner&descAlignY=50&descSize=30&fontColor=f5f5dc"/></p>
+<h3 align="center">⚡ Turning ideas into real-world projects</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithin0620&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  
 ![](https://komarev.com/ghpvc/?username=Nithin0620)
@@ -50,14 +61,51 @@
   </a>
 </p>
 
-## 🚀 Upcoming Project
+# Projects
 
-### TripTally – AI-Powered Travel Planner (Launching Soon)
+
+## 📄 VoxDocs 
+```md
+# 🚀 VoxDocs – AI Document Intelligence Engine
+
+Transform documents into insights. Extract. Summarize. Understand instantly.
+
+🔗 Live Preview: https://github.com/Nithin0620/VoxDocs
+```
+## 📄 NeuroFlow 
+```md
+# 🚀 NeuroFlow – Intelligent AI Learning Companion
+
+Personalized learning powered by next-gen AI.
+
+🔗 Live Preview: https://huggingface.co/spaces/Nithin0620/NeuroFlow
+```
+
+## 📄 CodeProof
+```md
+# 🚀 CodeProof – AI Code Analyzer
+
+Write code. Validate logic. Ship with confidence.
+
+🔗 Live Preview: https://code-proof.vercel.app/
+```
+##  📄 StudyNotion
+```md
+# 🚀 StudyNotion – AI-Powered EdTech Platform
+
+Learn. Teach. Scale knowledge.
+
+🔗 Live Preview: https://major-project-study-notion.vercel.app/
+```
+
+# Upcoming Project
+```md
+# 🚀TripTally – AI-Powered Travel Planner (Launching Soon)
 
 Plan smarter. Track expenses. Travel together.
 
 🔗 Live Preview: https://trip-tally-seven.vercel.app/
-  
+  ```
 
 
 ## LeetCode:
@@ -66,14 +114,32 @@ Plan smarter. Track expenses. Travel together.
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity" alt="LeetCode Stats"/>
 </p>
+
+##
+
 <!--
 <p align="center">
   <img src="https://metrics.lecoq.io/Nithin0620?template=classic&languages=1&habits=1&repositories=1&achievements=1&pagespeed=1&introduction=1&code=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Major_project_StudyNotion&repositories.pinned=0&repositories.starred=0&repositories.random=2&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&code.languages=solidity%2Cjavascript%2Ctypescript&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=devnithin.xyz&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FCalcutta" alt="Metrics"/>
 </p>-->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin0620" alt="Nithin's Streak Stats"/>
-</p>
+<div align="center">
+
+  <img height="175em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin0620&layout=compact&langs_count=8&theme=onedark&bg_color=00000000"/>
+
+
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nithin0620&theme=highcontrast" 
+         alt="GitHub Streak" />
+  </a>
+
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin0620&theme=tokyo-night&area=true" 
+       width="100%" />
+
+</div>
 
 
 
@@ -85,7 +151,10 @@ Plan smarter. Track expenses. Travel together.
 
 
 ## 🚀Keep Moving Forward
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+</p>
+
 <!-- ======================= comments below ==================================================================================================-->
 <!--  ## 🛠 &nbsp;Languages and Tools
  <p align="left>
