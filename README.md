@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg) -->
 
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:0f9bff&height=500&section=header&text=I'm%20Nithin&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Practitioner&descAlignY=50&descSize=30&fontColor=f5f5dc"/></p>
 <h3 align="center">⚡ Turning ideas into real-world projects</h3>
 
