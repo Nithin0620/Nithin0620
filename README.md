@@ -125,22 +125,39 @@ Plan smarter. Track expenses. Travel together.
 
 <div align="center">
 
-  <img height="175em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin0620&layout=compact&langs_count=8&theme=onedark&bg_color=00000000"/>
+## 📊 GitHub Stats
 
+<a href="https://github.com/Nithin0620">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nithin0620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  />
+</a>
 
+<a href="https://github.com/Nithin0620">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nithin0620&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&size_weight=0.5&count_weight=0.5" 
+  />
+</a>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nithin0620&theme=highcontrast" 
-         alt="GitHub Streak" />
-  </a>
+<br/><br/>
 
-  <br>
+<img 
+  width="560" 
+  src="https://streak-stats.demolab.com?user=Nithin0620&theme=tokyonight&hide_border=true" 
+/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin0620&theme=tokyo-night&area=true" 
-       width="100%" />
+<br/><br/>
+
+<img 
+  width="100%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin0620&theme=tokyo-night&hide_border=true&area=true" 
+/>
 
 </div>
+
+
 
 
 
