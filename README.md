@@ -65,13 +65,15 @@
 # 🌟 Open Source Contributions
 
 <ul>
-  <li>🏕️ <strong><a href="https://github.com/kubernetes/website/pull/55716">Kubernetes</a></strong> - fix: correctly return cookie value in banner-dismiss.js(by <a href="https://github.com/kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"></a>)</li>
+  <li>☸️ <strong><a href="https://github.com/kubernetes/website/pull/55716">Kubernetes</a></strong> - fix: correctly return cookie value in banner-dismiss.js(by <a href="https://github.com/kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"></a>)</li>
 
-  <li>🦋 <strong><a href="https://github.com/kubernetes/website/pull/55730">Kubernetes</a></strong> - fix: improve sortable table accessibility and column sort behavior(by <a href="https://github.com/kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"></a>)</li>
+  <li>☸️ <strong><a href="https://github.com/kubernetes/website/pull/55730">Kubernetes</a></strong> - fix: improve sortable table accessibility and column sort behavior(by <a href="https://github.com/kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"></a>)</li>
 
-  <li>🧠 <strong><a href="https://github.com/BlazeUp-AI/Observal/pull/986">BlazeUp-AI</a></strong> - test(cmd): add prompt command tests(by <a href="https://github.com/BlazeUp-AI"><img alt="BlazeUp-AI" src="https://img.shields.io/badge/BlazeUp--AI-7B61FF?style=flat-square&amp;logo=github&amp;logoColor=white"></a>)</li>
+  <li>🤖 <strong><a href="https://github.com/BlazeUp-AI/Observal/pull/986">BlazeUp-AI</a></strong> - test(cmd): add prompt command tests(by <a href="https://github.com/BlazeUp-AI"><img alt="BlazeUp-AI" src="https://img.shields.io/badge/BlazeUp--AI-7B61FF?style=flat-square&amp;logo=github&amp;logoColor=white"></a>)</li>
 
-  <li>☸️ <strong><a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/67422">freeCodeCamp</a></strong> - fix: separate duplicate erms validation in insertErms(by <a href="https://github.com/freeCodeCamp"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&amp;logo=freecodecamp&amp;logoColor=white"></a>)</li>
+  <li>🔥 <strong><a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/67422">freeCodeCamp</a></strong> - fix: separate duplicate erms validation in insertErms(by <a href="https://github.com/freeCodeCamp"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&amp;logo=freecodecamp&amp;logoColor=white"></a>)</li>
+
+  <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17040">GoogleChrome</a></strong> - tests(llms-txt): add coverage for network failure and heading edge cases(by <a href="https://github.com/GoogleChrome"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
 </ul>
 
 # Projects
