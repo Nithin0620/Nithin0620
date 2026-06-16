@@ -76,6 +76,8 @@
   <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17040">GoogleChrome</a></strong> - tests(llms-txt): add coverage for network failure and heading edge cases(by <a href="https://github.com/GoogleChrome"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
 
   <li>💡 <strong><a href="https://github.com/google/adk-js/pull/405">Google</a></strong> - fix(core): replace 'any' with typed AuthConfig in EventActions(by <a href="https://github.com/google"><img alt="google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"></a>)</li>
+
+  <li>💡 <strong><a href="https://github.com/google/adk-js/pull/433">Google</a></strong> - refactor: leverage native crypto.randomUUID() for UUID generation(by <a href="https://github.com/google"><img alt="google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"></a>)</li>
 </ul>
 
 # Projects
