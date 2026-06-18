@@ -78,6 +78,9 @@
   <li>💡 <strong><a href="https://github.com/google/adk-js/pull/405">Google</a></strong> - fix(core): replace 'any' with typed AuthConfig in EventActions(by <a href="https://github.com/google"><img alt="google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"></a>)</li>
 
   <li>💡 <strong><a href="https://github.com/google/adk-js/pull/433">Google</a></strong> - refactor: leverage native crypto.randomUUID() for UUID generation(by <a href="https://github.com/google"><img alt="google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"></a>)</li>
+
+  <li>🔥 <strong><a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/67624">freeCodeCamp</a></strong> - fix(api): move origin outside try block in email subscription handlers
+(by <a href="https://github.com/freeCodeCamp"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&amp;logo=freecodecamp&amp;logoColor=white"></a>)</li>
 </ul>
 
 # Projects
