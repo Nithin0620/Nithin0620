@@ -132,13 +132,14 @@ Plan smarter. Track expenses. Travel together.
 🔗 Live Preview: https://trip-tally-seven.vercel.app/
   ```
 
-
+<!--
 ## LeetCode:
 [LeetCode Profile](https://leetcode.com/u/Nithin0620/)  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Nithin0620?theme=unicorn&font=Nova%20Flat&ext=activity" alt="LeetCode Stats"/>
 </p>
+-->
 
 ##
 
