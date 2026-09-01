@@ -86,6 +86,21 @@
 
 </ul>
 
+## 🌐 My Digital Space(Not Portfolio)
+
+<div align="center">
+
+### `ssh.net.in`
+
+**Projects · Experiments · Ideas · More**
+
+<a href="https://ssh.net.in">
+  <img src="https://img.shields.io/badge/Explore%20ssh.net.in-0f9bff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+
 # Projects
 
 
