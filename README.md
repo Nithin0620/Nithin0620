@@ -100,52 +100,61 @@
 
 </div>
 
-
 # Projects
 
+## 📄 Workflow
+# ⚡ Workflow – Automation Platform
 
-## 📄 VoxDocs 
-```md
-# 🚀 VoxDocs – AI Document Intelligence Engine
+Build workflows. Automate tasks. Ship faster.
 
-Transform documents into insights. Extract. Summarize. Understand instantly.
+🔗 [Live Preview](https://workflow.ssh.net.in)
 
-🔗 Live Preview: https://github.com/Nithin0620/VoxDocs
-```
-## 📄 NeuroFlow 
-```md
-# 🚀 NeuroFlow – Intelligent AI Learning Companion
 
-Personalized learning powered by next-gen AI.
-
-🔗 Live Preview: https://huggingface.co/spaces/Nithin0620/NeuroFlow
-```
+---
 
 ## 📄 CodeProof
-```md
 # 🚀 CodeProof – AI Code Analyzer
 
 Write code. Validate logic. Ship with confidence.
 
-🔗 Live Preview: https://code-proof.vercel.app/
-```
-##  📄 StudyNotion
-```md
+🔗 [Live Preview](https://code-proof.vercel.app/)
+
+---
+
+## 📄 StudyNotion
 # 🚀 StudyNotion – AI-Powered EdTech Platform
 
 Learn. Teach. Scale knowledge.
 
-🔗 Live Preview: https://major-project-study-notion.vercel.app/
-```
+🔗 [Live Preview](https://major-project-study-notion.vercel.app/)
+
+---
+
+
+## 📄 Dwello
+# 🏠 Dwello – Real Estate Platform
+
+Discover properties. Explore spaces. Find your place.
+
+---
+
+## 📄 Atlas
+# 🌐 Atlas – AI-Powered Platform
+
+🔗 [Live Preview](https://atlas.ssh.net.in)
+
+
+Explore data. Discover insights. Make better decisions.
+
+---
 
 # Upcoming Project
-```md
-# 🚀TripTally – AI-Powered Travel Planner (Launching Soon)
+
+## 🚀 TripTally – AI-Powered Travel Planner
 
 Plan smarter. Track expenses. Travel together.
 
-🔗 Live Preview: https://trip-tally-seven.vercel.app/
-  ```
+🔗 [Live Preview](https://trip-tally-seven.vercel.app/)
 
 <!--
 ## LeetCode:
