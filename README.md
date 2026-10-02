@@ -84,6 +84,8 @@
 
   <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17173">GoogleChrome</a></strong> - core(gather): fix broken cycle detection in recurse functions (by <a href="https://github.com/GoogleChrome"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
 
+  <li>🤖 <strong><a href="https://github.com/resend/resend-node/pull/1072">Resend</a></strong> - feat: request cancellation  (by <a href="https://github.com/resend"><img alt="resend" src="https://img.shields.io/badge/Resend-4285F4?style=flat-square&logo=resend&logoColor=white"></a>)</li>
+
 </ul>
 
 ## 🌐 My Digital Space(Not Portfolio)
