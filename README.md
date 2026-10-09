@@ -82,9 +82,13 @@
   <li>🔥 <strong><a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/67624">freeCodeCamp</a></strong> - fix(api): move origin outside try block in email subscription handlers
 (by <a href="https://github.com/freeCodeCamp"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&amp;logo=freecodecamp&amp;logoColor=white"></a>)</li>
 
-  <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17173">GoogleChrome</a></strong> - core(gather): fix broken cycle detection in recurse functions (by <a href="https://github.com/GoogleChrome"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
+  <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17173">GoogleChrome</a></strong> - core(gather): fix broken cycle detection in recurse functions (by <a href="https://github.com/GoogleChrome"><img alt="GoogleChrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
 
   <li>🤖 <strong><a href="https://github.com/resend/resend-node/pull/1072">Resend</a></strong> - feat: request cancellation  (by <a href="https://github.com/resend"><img alt="resend" src="https://img.shields.io/badge/Resend-4285F4?style=flat-square&logo=resend&logoColor=white"></a>)</li>
+
+  <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17174">GoogleChrome</a></strong> - core: fix insight audits picking the wrong navigation's data  (by <a href="https://github.com/GoogleChrome"><img alt="GoogleChrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
+
+  
 
 </ul>
 
