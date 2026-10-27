@@ -88,6 +88,9 @@
 
   <li>⚡ <strong><a href="https://github.com/GoogleChrome/lighthouse/pull/17174">GoogleChrome</a></strong> - core: fix insight audits picking the wrong navigation's data  (by <a href="https://github.com/GoogleChrome"><img alt="GoogleChrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"></a>)</li>
 
+  <li>🗃️ <strong><a href="https://github.com/repowise-dev/repowise/pull/2018">Repowise</a></strong> - fix(generation): emit file pages for test infrastructure, fixtures, and e2e helpers (#1497)
+  (by <a href="https://github.com/repowise-dev"><img alt="Repowise" src="https://img.shields.io/badge/Repowise-blue"></a>)</li>
+
   
 
 </ul>
